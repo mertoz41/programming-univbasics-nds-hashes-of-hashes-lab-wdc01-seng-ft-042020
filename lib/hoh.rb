@@ -31,14 +31,14 @@
 # }
 
 def naming_system
-  {
-  # Remember:
+  giant = { 
   :label => "Kingdom",
   :sub_category => {
     :label => "Phylum",
      :sub_category => {
        :label => "Class"
-     }
+     },
+  :label => "Order"
   }
   
     
