@@ -33,7 +33,12 @@
 def naming_system
   {
   # Remember:
-  #  Kingdom
+  Kingdom = {
+    :Phylum => {
+      
+    }
+    
+  }
   #  Phylum
   #  Class
   #  Order
